@@ -33,10 +33,30 @@ Here are some ideas to get you started:
 HTML • CSS • Bootstrap  
 
 🔹 <b>Programming Languages</b><br>
-C++ • Java (currently learning)
+C++ (OOP) • Java (currently learning)
+
+🔹 <b>Concepts</b><br>
+Object-Oriented Programming (OOP) • Problem Solving • Logic Building
 
 🔹 <b>Tools</b><br>
 VS Code • Git & GitHub • Code::Blocks • IntelliJ  
+
+---
+
+### 👩🏻‍💻 About Me
+
+```javascript
+const jojo = {
+  education: "BSc Computer Science - BAU (Al-Huson)",
+  year: "4th Year Student",
+  track: "Full-Stack Development",
+  frontEnd: ["HTML", "CSS", "Bootstrap"],
+  backEnd: ["C++ (OOP)", "Java (learning)"],
+  concepts: ["Object-Oriented Programming", "Problem Solving"],
+  currentFocus: "Building full-stack projects and improving Java",
+  goal: "To become a professional Full-Stack Developer 🚀"
+}
+IntelliJ  
 
 ---
 
