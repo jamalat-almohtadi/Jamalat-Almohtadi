@@ -56,3 +56,9 @@ const jojo = {
   currentFocus: "Building full-stack projects and improving Java",
   goal: "To become a professional Full-Stack Developer 🚀"
 }
+
+## 📜 My Certificates
+
+### 🏆 C++ Programming Certificate  
+📄 [View Certificate](Jamalat%20Mohd%20Ghareb%20Saad%20Aldin%20Almohtadi-cpp.pdf)
+
